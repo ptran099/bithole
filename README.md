@@ -1,5 +1,11 @@
 # bithole
 
+## Functional Requirements
+
+### Create Account
+
+### Create Paste
+
 ## API Specification
 
 ### JSON Objects
